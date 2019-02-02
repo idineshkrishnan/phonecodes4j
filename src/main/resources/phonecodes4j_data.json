@@ -1,0 +1,1316 @@
+[
+  {
+    "country_name": "Afghanistan",
+    "country_alpha_code_2": "AF",
+    "country_alpha_code_3": "AFG",
+    "phone_code": "93"
+  },
+  {
+    "country_name": "Albania",
+    "country_alpha_code_2": "AL",
+    "country_alpha_code_3": "ALB",
+    "phone_code": "355"
+  },
+  {
+    "country_name": "Algeria",
+    "country_alpha_code_2": "DZ",
+    "country_alpha_code_3": "DZA",
+    "phone_code": "213"
+  },
+  {
+    "country_name": "Andorra",
+    "country_alpha_code_2": "AD",
+    "country_alpha_code_3": "AND",
+    "phone_code": "376"
+  },
+  {
+    "country_name": "Angola",
+    "country_alpha_code_2": "AO",
+    "country_alpha_code_3": "AGO",
+    "phone_code": "244"
+  },
+  {
+    "country_name": "Argentina",
+    "country_alpha_code_2": "AR",
+    "country_alpha_code_3": "ARG",
+    "phone_code": "54"
+  },
+  {
+    "country_name": "Armenia",
+    "country_alpha_code_2": "AM",
+    "country_alpha_code_3": "ARM",
+    "phone_code": "374"
+  },
+  {
+    "country_name": "Aruba",
+    "country_alpha_code_2": "AW",
+    "country_alpha_code_3": "ABW",
+    "phone_code": "297"
+  },
+  {
+    "country_name": "Ascension Island",
+    "country_alpha_code_2": "AC",
+    "country_alpha_code_3": "ASC",
+    "phone_code": "247"
+  },
+  {
+    "country_name": "Australia",
+    "country_alpha_code_2": "AU",
+    "country_alpha_code_3": "AUS",
+    "phone_code": "61"
+  },
+  {
+    "country_name": "Austria",
+    "country_alpha_code_2": "AT",
+    "country_alpha_code_3": "AUT",
+    "phone_code": "43"
+  },
+  {
+    "country_name": "Azerbaijan",
+    "country_alpha_code_2": "AZ",
+    "country_alpha_code_3": "AZE",
+    "phone_code": "994"
+  },
+  {
+    "country_name": "Bahrain",
+    "country_alpha_code_2": "BH",
+    "country_alpha_code_3": "BHR",
+    "phone_code": "973"
+  },
+  {
+    "country_name": "Bangladesh",
+    "country_alpha_code_2": "BD",
+    "country_alpha_code_3": "BGD",
+    "phone_code": "880"
+  },
+  {
+    "country_name": "Belarus",
+    "country_alpha_code_2": "BY",
+    "country_alpha_code_3": "BLR",
+    "phone_code": "375"
+  },
+  {
+    "country_name": "Belgium",
+    "country_alpha_code_2": "BE",
+    "country_alpha_code_3": "BEL",
+    "phone_code": "32"
+  },
+  {
+    "country_name": "Belize",
+    "country_alpha_code_2": "BZ",
+    "country_alpha_code_3": "BLZ",
+    "phone_code": "501"
+  },
+  {
+    "country_name": "Benin",
+    "country_alpha_code_2": "BJ",
+    "country_alpha_code_3": "BEN",
+    "phone_code": "229"
+  },
+  {
+    "country_name": "Bhutan",
+    "country_alpha_code_2": "BT",
+    "country_alpha_code_3": "BTN",
+    "phone_code": "975"
+  },
+  {
+    "country_name": "Bolivia",
+    "country_alpha_code_2": "BO",
+    "country_alpha_code_3": "BOL",
+    "phone_code": "591"
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "country_alpha_code_2": "BA",
+    "country_alpha_code_3": "BIH",
+    "phone_code": "387"
+  },
+  {
+    "country_name": "Botswana",
+    "country_alpha_code_2": "BW",
+    "country_alpha_code_3": "BWA",
+    "phone_code": "267"
+  },
+  {
+    "country_name": "Brazil",
+    "country_alpha_code_2": "BR",
+    "country_alpha_code_3": "BRA",
+    "phone_code": "55"
+  },
+  {
+    "country_name": "Brunei",
+    "country_alpha_code_2": "BN",
+    "country_alpha_code_3": "BRN",
+    "phone_code": "673"
+  },
+  {
+    "country_name": "Bulgaria",
+    "country_alpha_code_2": "BG",
+    "country_alpha_code_3": "BGR",
+    "phone_code": "359"
+  },
+  {
+    "country_name": "Burkina Faso",
+    "country_alpha_code_2": "BF",
+    "country_alpha_code_3": "BFA",
+    "phone_code": "226"
+  },
+  {
+    "country_name": "Burma (Myanmar)",
+    "country_alpha_code_2": "MM",
+    "country_alpha_code_3": "MMR",
+    "phone_code": "95"
+  },
+  {
+    "country_name": "Burundi",
+    "country_alpha_code_2": "BI",
+    "country_alpha_code_3": "BDI",
+    "phone_code": "257"
+  },
+  {
+    "country_name": "Cambodia",
+    "country_alpha_code_2": "KH",
+    "country_alpha_code_3": "KHM",
+    "phone_code": "855"
+  },
+  {
+    "country_name": "Cameroon",
+    "country_alpha_code_2": "CM",
+    "country_alpha_code_3": "CMR",
+    "phone_code": "237"
+  },
+  {
+    "country_name": "Canada",
+    "country_alpha_code_2": "CA",
+    "country_alpha_code_3": "CAN",
+    "phone_code": "1"
+  },
+  {
+    "country_name": "Cape Verde",
+    "country_alpha_code_2": "CV",
+    "country_alpha_code_3": "CPV",
+    "phone_code": "238"
+  },
+  {
+    "country_name": "Central African Republic",
+    "country_alpha_code_2": "CF",
+    "country_alpha_code_3": "CAF",
+    "phone_code": "236"
+  },
+  {
+    "country_name": "Chad",
+    "country_alpha_code_2": "TD",
+    "country_alpha_code_3": "TCD",
+    "phone_code": "235"
+  },
+  {
+    "country_name": "Chile",
+    "country_alpha_code_2": "CL",
+    "country_alpha_code_3": "CHL",
+    "phone_code": "56"
+  },
+  {
+    "country_name": "China",
+    "country_alpha_code_2": "CN",
+    "country_alpha_code_3": "CHN",
+    "phone_code": "86"
+  },
+  {
+    "country_name": "Christmas Island",
+    "country_alpha_code_2": "CX",
+    "country_alpha_code_3": "CXR",
+    "phone_code": "61"
+  },
+  {
+    "country_name": "Cocos (Keeling) Islands",
+    "country_alpha_code_2": "CC",
+    "country_alpha_code_3": "CCK",
+    "phone_code": "61"
+  },
+  {
+    "country_name": "Colombia",
+    "country_alpha_code_2": "CO",
+    "country_alpha_code_3": "COL",
+    "phone_code": "57"
+  },
+  {
+    "country_name": "Comoros",
+    "country_alpha_code_2": "KM",
+    "country_alpha_code_3": "COM",
+    "phone_code": "269"
+  },
+  {
+    "country_name": "Congo",
+    "country_alpha_code_2": "CG",
+    "country_alpha_code_3": "COG",
+    "phone_code": "242"
+  },
+  {
+    "country_name": "Cook Islands",
+    "country_alpha_code_2": "CK",
+    "country_alpha_code_3": "COK",
+    "phone_code": "682"
+  },
+  {
+    "country_name": "Costa Rica",
+    "country_alpha_code_2": "CR",
+    "country_alpha_code_3": "CRC",
+    "phone_code": "506"
+  },
+  {
+    "country_name": "Croatia",
+    "country_alpha_code_2": "HR",
+    "country_alpha_code_3": "HRV",
+    "phone_code": "385"
+  },
+  {
+    "country_name": "Cuba",
+    "country_alpha_code_2": "CU",
+    "country_alpha_code_3": "CUB",
+    "phone_code": "53"
+  },
+  {
+    "country_name": "Cyprus",
+    "country_alpha_code_2": "CY",
+    "country_alpha_code_3": "CYP",
+    "phone_code": "357"
+  },
+  {
+    "country_name": "Czech Republic",
+    "country_alpha_code_2": "CZ",
+    "country_alpha_code_3": "CZE",
+    "phone_code": "420"
+  },
+  {
+    "country_name": "Democratic Republic of the Congo",
+    "country_alpha_code_2": "CD",
+    "country_alpha_code_3": "COD",
+    "phone_code": "243"
+  },
+  {
+    "country_name": "Denmark",
+    "country_alpha_code_2": "DK",
+    "country_alpha_code_3": "DNK",
+    "phone_code": "45"
+  },
+  {
+    "country_name": "Diego Garcia",
+    "country_alpha_code_2": "DG",
+    "country_alpha_code_3": "DGA",
+    "phone_code": "246"
+  },
+  {
+    "country_name": "Djibouti",
+    "country_alpha_code_2": "DJ",
+    "country_alpha_code_3": "DJI",
+    "phone_code": "253"
+  },
+  {
+    "country_name": "Ecuador",
+    "country_alpha_code_2": "EC",
+    "country_alpha_code_3": "ECU",
+    "phone_code": "593"
+  },
+  {
+    "country_name": "Egypt",
+    "country_alpha_code_2": "EG",
+    "country_alpha_code_3": "EGY",
+    "phone_code": "20"
+  },
+  {
+    "country_name": "El Salvador",
+    "country_alpha_code_2": "SV",
+    "country_alpha_code_3": "SLV",
+    "phone_code": "503"
+  },
+  {
+    "country_name": "Equatorial Guinea",
+    "country_alpha_code_2": "GQ",
+    "country_alpha_code_3": "GNQ",
+    "phone_code": "240"
+  },
+  {
+    "country_name": "Eritrea",
+    "country_alpha_code_2": "ER",
+    "country_alpha_code_3": "ERI",
+    "phone_code": "291"
+  },
+  {
+    "country_name": "Estonia",
+    "country_alpha_code_2": "EE",
+    "country_alpha_code_3": "EST",
+    "phone_code": "372"
+  },
+  {
+    "country_name": "Ethiopia",
+    "country_alpha_code_2": "ET",
+    "country_alpha_code_3": "ETH",
+    "phone_code": "251"
+  },
+  {
+    "country_name": "Falkland Islands",
+    "country_alpha_code_2": "FK",
+    "country_alpha_code_3": "FLK",
+    "phone_code": "500"
+  },
+  {
+    "country_name": "Faroe Islands",
+    "country_alpha_code_2": "FO",
+    "country_alpha_code_3": "FRO",
+    "phone_code": "298"
+  },
+  {
+    "country_name": "Fiji",
+    "country_alpha_code_2": "FJ",
+    "country_alpha_code_3": "FJI",
+    "phone_code": "679"
+  },
+  {
+    "country_name": "Finland",
+    "country_alpha_code_2": "FI",
+    "country_alpha_code_3": "FIN",
+    "phone_code": "358"
+  },
+  {
+    "country_name": "France",
+    "country_alpha_code_2": "FR",
+    "country_alpha_code_3": "FRA",
+    "phone_code": "33"
+  },
+  {
+    "country_name": "French Guiana",
+    "country_alpha_code_2": "GF",
+    "country_alpha_code_3": "GUF",
+    "phone_code": "594"
+  },
+  {
+    "country_name": "French Polynesia",
+    "country_alpha_code_2": "PF",
+    "country_alpha_code_3": "PYF",
+    "phone_code": "689"
+  },
+  {
+    "country_name": "Gabon",
+    "country_alpha_code_2": "GA",
+    "country_alpha_code_3": "GAB",
+    "phone_code": "241"
+  },
+  {
+    "country_name": "Gambia",
+    "country_alpha_code_2": "GM",
+    "country_alpha_code_3": "GMB",
+    "phone_code": "220"
+  },
+  {
+    "country_name": "Georgia",
+    "country_alpha_code_2": "GE",
+    "country_alpha_code_3": "GEO",
+    "phone_code": "995"
+  },
+  {
+    "country_name": "Germany",
+    "country_alpha_code_2": "DE",
+    "country_alpha_code_3": "DEU",
+    "phone_code": "49"
+  },
+  {
+    "country_name": "Ghana",
+    "country_alpha_code_2": "GH",
+    "country_alpha_code_3": "GHA",
+    "phone_code": "233"
+  },
+  {
+    "country_name": "Gibraltar",
+    "country_alpha_code_2": "GI",
+    "country_alpha_code_3": "GIB",
+    "phone_code": "350"
+  },
+  {
+    "country_name": "Greece",
+    "country_alpha_code_2": "GR",
+    "country_alpha_code_3": "GRC",
+    "phone_code": "30"
+  },
+  {
+    "country_name": "Greenland",
+    "country_alpha_code_2": "GL",
+    "country_alpha_code_3": "GRL",
+    "phone_code": "299"
+  },
+  {
+    "country_name": "Guadeloupe",
+    "country_alpha_code_2": "GP",
+    "country_alpha_code_3": "GLP",
+    "phone_code": "590"
+  },
+  {
+    "country_name": "Guatemala",
+    "country_alpha_code_2": "GT",
+    "country_alpha_code_3": "GTM",
+    "phone_code": "502"
+  },
+  {
+    "country_name": "Guinea",
+    "country_alpha_code_2": "GN",
+    "country_alpha_code_3": "GIN",
+    "phone_code": "224"
+  },
+  {
+    "country_name": "Guinea-Bissau",
+    "country_alpha_code_2": "GW",
+    "country_alpha_code_3": "GNB",
+    "phone_code": "245"
+  },
+  {
+    "country_name": "Guyana",
+    "country_alpha_code_2": "GY",
+    "country_alpha_code_3": "GUY",
+    "phone_code": "592"
+  },
+  {
+    "country_name": "Haiti",
+    "country_alpha_code_2": "HT",
+    "country_alpha_code_3": "HTI",
+    "phone_code": "509"
+  },
+  {
+    "country_name": "Holy See (Vatican City)",
+    "country_alpha_code_2": "VA",
+    "country_alpha_code_3": "VAT",
+    "phone_code": "39"
+  },
+  {
+    "country_name": "Honduras",
+    "country_alpha_code_2": "HN",
+    "country_alpha_code_3": "HND",
+    "phone_code": "504"
+  },
+  {
+    "country_name": "Hong Kong",
+    "country_alpha_code_2": "HK",
+    "country_alpha_code_3": "HKG",
+    "phone_code": "852"
+  },
+  {
+    "country_name": "Hungary",
+    "country_alpha_code_2": "HU",
+    "country_alpha_code_3": "HUN",
+    "phone_code": "36"
+  },
+  {
+    "country_name": "Iceland",
+    "country_alpha_code_2": "IS",
+    "country_alpha_code_3": "IS",
+    "phone_code": "354"
+  },
+  {
+    "country_name": "India",
+    "country_alpha_code_2": "IN",
+    "country_alpha_code_3": "IND",
+    "phone_code": "91"
+  },
+  {
+    "country_name": "Indonesia",
+    "country_alpha_code_2": "ID",
+    "country_alpha_code_3": "IDN",
+    "phone_code": "62"
+  },
+  {
+    "country_name": "Iran",
+    "country_alpha_code_2": "IR",
+    "country_alpha_code_3": "IRN",
+    "phone_code": "98"
+  },
+  {
+    "country_name": "Iraq",
+    "country_alpha_code_2": "IQ",
+    "country_alpha_code_3": "IRQ",
+    "phone_code": "964"
+  },
+  {
+    "country_name": "Ireland",
+    "country_alpha_code_2": "IE",
+    "country_alpha_code_3": "IRL",
+    "phone_code": "353"
+  },
+  {
+    "country_name": "Isle of Man",
+    "country_alpha_code_2": "IM",
+    "country_alpha_code_3": "IMN",
+    "phone_code": "44"
+  },
+  {
+    "country_name": "Israel",
+    "country_alpha_code_2": "IL",
+    "country_alpha_code_3": "ISR",
+    "phone_code": "972"
+  },
+  {
+    "country_name": "Italy",
+    "country_alpha_code_2": "IT",
+    "country_alpha_code_3": "ITA",
+    "phone_code": "39"
+  },
+  {
+    "country_name": "Ivory Coast (Côte d'Ivoire)",
+    "country_alpha_code_2": "CI",
+    "country_alpha_code_3": "CIV",
+    "phone_code": "225"
+  },
+  {
+    "country_name": "Japan",
+    "country_alpha_code_2": "JP",
+    "country_alpha_code_3": "JPN",
+    "phone_code": "81"
+  },
+  {
+    "country_name": "Jersey",
+    "country_alpha_code_2": "JE",
+    "country_alpha_code_3": "JEY",
+    "phone_code": "44"
+  },
+  {
+    "country_name": "Jordan",
+    "country_alpha_code_2": "JO",
+    "country_alpha_code_3": "JOR",
+    "phone_code": "962"
+  },
+  {
+    "country_name": "Kazakhstan",
+    "country_alpha_code_2": "KZ",
+    "country_alpha_code_3": "KAZ",
+    "phone_code": "7"
+  },
+  {
+    "country_name": "Kenya",
+    "country_alpha_code_2": "KE",
+    "country_alpha_code_3": "KEN",
+    "phone_code": "254"
+  },
+  {
+    "country_name": "Kiribati",
+    "country_alpha_code_2": "KI",
+    "country_alpha_code_3": "KIR",
+    "phone_code": "686"
+  },
+  {
+    "country_name": "Kuwait",
+    "country_alpha_code_2": "KW",
+    "country_alpha_code_3": "KWT",
+    "phone_code": "965"
+  },
+  {
+    "country_name": "Kyrgyzstan",
+    "country_alpha_code_2": "KG",
+    "country_alpha_code_3": "KGZ",
+    "phone_code": "996"
+  },
+  {
+    "country_name": "Laos",
+    "country_alpha_code_2": "LA",
+    "country_alpha_code_3": "LAO",
+    "phone_code": "856"
+  },
+  {
+    "country_name": "Latvia",
+    "country_alpha_code_2": "LV",
+    "country_alpha_code_3": "LVA",
+    "phone_code": "371"
+  },
+  {
+    "country_name": "Lebanon",
+    "country_alpha_code_2": "LB",
+    "country_alpha_code_3": "LBN",
+    "phone_code": "961"
+  },
+  {
+    "country_name": "Lesotho",
+    "country_alpha_code_2": "LS",
+    "country_alpha_code_3": "LSO",
+    "phone_code": "266"
+  },
+  {
+    "country_name": "Liberia",
+    "country_alpha_code_2": "LR",
+    "country_alpha_code_3": "LBR",
+    "phone_code": "231"
+  },
+  {
+    "country_name": "Libya",
+    "country_alpha_code_2": "LY",
+    "country_alpha_code_3": "LBY",
+    "phone_code": "218"
+  },
+  {
+    "country_name": "Liechtenstein",
+    "country_alpha_code_2": "LI",
+    "country_alpha_code_3": "LIE",
+    "phone_code": "423"
+  },
+  {
+    "country_name": "Lithuania",
+    "country_alpha_code_2": "LT",
+    "country_alpha_code_3": "LTU",
+    "phone_code": "370"
+  },
+  {
+    "country_name": "Luxembourg",
+    "country_alpha_code_2": "LU",
+    "country_alpha_code_3": "LUX",
+    "phone_code": "352"
+  },
+  {
+    "country_name": "Macau",
+    "country_alpha_code_2": "MO",
+    "country_alpha_code_3": "MAC",
+    "phone_code": "853"
+  },
+  {
+    "country_name": "Macedonia",
+    "country_alpha_code_2": "MK",
+    "country_alpha_code_3": "MKD",
+    "phone_code": "389"
+  },
+  {
+    "country_name": "Madagascar",
+    "country_alpha_code_2": "MG",
+    "country_alpha_code_3": "MDG",
+    "phone_code": "261"
+  },
+  {
+    "country_name": "Malawi",
+    "country_alpha_code_2": "MW",
+    "country_alpha_code_3": "MWI",
+    "phone_code": "265"
+  },
+  {
+    "country_name": "Malaysia",
+    "country_alpha_code_2": "MY",
+    "country_alpha_code_3": "MYS",
+    "phone_code": "60"
+  },
+  {
+    "country_name": "Maldives",
+    "country_alpha_code_2": "MV",
+    "country_alpha_code_3": "MDV",
+    "phone_code": "960"
+  },
+  {
+    "country_name": "Mali",
+    "country_alpha_code_2": "ML",
+    "country_alpha_code_3": "MLI",
+    "phone_code": "223"
+  },
+  {
+    "country_name": "Malta",
+    "country_alpha_code_2": "MT",
+    "country_alpha_code_3": "MLT",
+    "phone_code": "356"
+  },
+  {
+    "country_name": "Marshall Islands",
+    "country_alpha_code_2": "MH",
+    "country_alpha_code_3": "MHL",
+    "phone_code": "692"
+  },
+  {
+    "country_name": "Martinique",
+    "country_alpha_code_2": "MQ",
+    "country_alpha_code_3": "MTQ",
+    "phone_code": "596"
+  },
+  {
+    "country_name": "Mauritania",
+    "country_alpha_code_2": "MR",
+    "country_alpha_code_3": "MRT",
+    "phone_code": "222"
+  },
+  {
+    "country_name": "Mauritius",
+    "country_alpha_code_2": "MU",
+    "country_alpha_code_3": "MUS",
+    "phone_code": "230"
+  },
+  {
+    "country_name": "Mayotte",
+    "country_alpha_code_2": "YT",
+    "country_alpha_code_3": "MYT",
+    "phone_code": "262"
+  },
+  {
+    "country_name": "Mexico",
+    "country_alpha_code_2": "MX",
+    "country_alpha_code_3": "MEX",
+    "phone_code": "52"
+  },
+  {
+    "country_name": "Micronesia",
+    "country_alpha_code_2": "FM",
+    "country_alpha_code_3": "FSM",
+    "phone_code": "691"
+  },
+  {
+    "country_name": "Moldova",
+    "country_alpha_code_2": "MD",
+    "country_alpha_code_3": "MDA",
+    "phone_code": "373"
+  },
+  {
+    "country_name": "Monaco",
+    "country_alpha_code_2": "MC",
+    "country_alpha_code_3": "MCO",
+    "phone_code": "377"
+  },
+  {
+    "country_name": "Mongolia",
+    "country_alpha_code_2": "MN",
+    "country_alpha_code_3": "MNG",
+    "phone_code": "976"
+  },
+  {
+    "country_name": "Montenegro",
+    "country_alpha_code_2": "ME",
+    "country_alpha_code_3": "MNE",
+    "phone_code": "382"
+  },
+  {
+    "country_name": "Morocco",
+    "country_alpha_code_2": "MA",
+    "country_alpha_code_3": "MAR",
+    "phone_code": "212"
+  },
+  {
+    "country_name": "Mozambique",
+    "country_alpha_code_2": "MZ",
+    "country_alpha_code_3": "MOZ",
+    "phone_code": "258"
+  },
+  {
+    "country_name": "Namibia",
+    "country_alpha_code_2": "NA",
+    "country_alpha_code_3": "NAM",
+    "phone_code": "264"
+  },
+  {
+    "country_name": "Nauru",
+    "country_alpha_code_2": "NR",
+    "country_alpha_code_3": "NRU",
+    "phone_code": "674"
+  },
+  {
+    "country_name": "Nepal",
+    "country_alpha_code_2": "NP",
+    "country_alpha_code_3": "NPL",
+    "phone_code": "977"
+  },
+  {
+    "country_name": "Netherlands",
+    "country_alpha_code_2": "NL",
+    "country_alpha_code_3": "NLD",
+    "phone_code": "31"
+  },
+  {
+    "country_name": "Netherlands Antilles",
+    "country_alpha_code_2": "AN",
+    "country_alpha_code_3": "ANT",
+    "phone_code": "599"
+  },
+  {
+    "country_name": "New Caledonia",
+    "country_alpha_code_2": "NC",
+    "country_alpha_code_3": "NCL",
+    "phone_code": "687"
+  },
+  {
+    "country_name": "New Zealand",
+    "country_alpha_code_2": "NZ",
+    "country_alpha_code_3": "NZL",
+    "phone_code": "64"
+  },
+  {
+    "country_name": "Nicaragua",
+    "country_alpha_code_2": "NI",
+    "country_alpha_code_3": "NIC",
+    "phone_code": "505"
+  },
+  {
+    "country_name": "Niger",
+    "country_alpha_code_2": "NE",
+    "country_alpha_code_3": "NER",
+    "phone_code": "227"
+  },
+  {
+    "country_name": "Nigeria",
+    "country_alpha_code_2": "NG",
+    "country_alpha_code_3": "NGA",
+    "phone_code": "234"
+  },
+  {
+    "country_name": "Niue",
+    "country_alpha_code_2": "NU",
+    "country_alpha_code_3": "NIU",
+    "phone_code": "683"
+  },
+  {
+    "country_name": "Norfolk Island",
+    "country_alpha_code_2": "NF",
+    "country_alpha_code_3": "NFK",
+    "phone_code": "672"
+  },
+  {
+    "country_name": "North Korea",
+    "country_alpha_code_2": "KP",
+    "country_alpha_code_3": "PRK",
+    "phone_code": "850"
+  },
+  {
+    "country_name": "Norway",
+    "country_alpha_code_2": "NO",
+    "country_alpha_code_3": "NOR",
+    "phone_code": "47"
+  },
+  {
+    "country_name": "Oman",
+    "country_alpha_code_2": "OM",
+    "country_alpha_code_3": "OMN",
+    "phone_code": "968"
+  },
+  {
+    "country_name": "Pakistan",
+    "country_alpha_code_2": "PK",
+    "country_alpha_code_3": "PAK",
+    "phone_code": "92"
+  },
+  {
+    "country_name": "Palau",
+    "country_alpha_code_2": "PW",
+    "country_alpha_code_3": "PLW",
+    "phone_code": "680"
+  },
+  {
+    "country_name": "Palestine",
+    "country_alpha_code_2": "PS",
+    "country_alpha_code_3": "PSE",
+    "phone_code": "970"
+  },
+  {
+    "country_name": "Panama",
+    "country_alpha_code_2": "PA",
+    "country_alpha_code_3": "PAN",
+    "phone_code": "507"
+  },
+  {
+    "country_name": "Papua New Guinea",
+    "country_alpha_code_2": "PG",
+    "country_alpha_code_3": "PNG",
+    "phone_code": "675"
+  },
+  {
+    "country_name": "Paraguay",
+    "country_alpha_code_2": "PY",
+    "country_alpha_code_3": "PRY",
+    "phone_code": "595"
+  },
+  {
+    "country_name": "Peru",
+    "country_alpha_code_2": "PE",
+    "country_alpha_code_3": "PER",
+    "phone_code": "51"
+  },
+  {
+    "country_name": "Philippines",
+    "country_alpha_code_2": "PH",
+    "country_alpha_code_3": "PHL",
+    "phone_code": "63"
+  },
+  {
+    "country_name": "Pitcairn Islands",
+    "country_alpha_code_2": "PN",
+    "country_alpha_code_3": "PCN",
+    "phone_code": "870"
+  },
+  {
+    "country_name": "Poland",
+    "country_alpha_code_2": "PL",
+    "country_alpha_code_3": "POL",
+    "phone_code": "48"
+  },
+  {
+    "country_name": "Portugal",
+    "country_alpha_code_2": "PT",
+    "country_alpha_code_3": "PRT",
+    "phone_code": "351"
+  },
+  {
+    "country_name": "Qatar",
+    "country_alpha_code_2": "QA",
+    "country_alpha_code_3": "QAT",
+    "phone_code": "974"
+  },
+  {
+    "country_name": "Republic of the Congo",
+    "country_alpha_code_2": "CG",
+    "country_alpha_code_3": "COG",
+    "phone_code": "242"
+  },
+  {
+    "country_name": "Reunion Island",
+    "country_alpha_code_2": "RE",
+    "country_alpha_code_3": "REU",
+    "phone_code": "262"
+  },
+  {
+    "country_name": "Romania",
+    "country_alpha_code_2": "RO",
+    "country_alpha_code_3": "ROU",
+    "phone_code": "40"
+  },
+  {
+    "country_name": "Russia",
+    "country_alpha_code_2": "RU",
+    "country_alpha_code_3": "RUS",
+    "phone_code": "7"
+  },
+  {
+    "country_name": "Rwanda",
+    "country_alpha_code_2": "RW",
+    "country_alpha_code_3": "RWA",
+    "phone_code": "250"
+  },
+  {
+    "country_name": "Saint Barthelemy",
+    "country_alpha_code_2": "BL",
+    "country_alpha_code_3": "BLM",
+    "phone_code": "590"
+  },
+  {
+    "country_name": "Saint Helena",
+    "country_alpha_code_2": "SH",
+    "country_alpha_code_3": "SHN",
+    "phone_code": "290"
+  },
+  {
+    "country_name": "Saint Martin",
+    "country_alpha_code_2": "MF",
+    "country_alpha_code_3": "MAF",
+    "phone_code": "590"
+  },
+  {
+    "country_name": "Saint Pierre and Miquelon",
+    "country_alpha_code_2": "PM",
+    "country_alpha_code_3": "SPM",
+    "phone_code": "508"
+  },
+  {
+    "country_name": "Samoa",
+    "country_alpha_code_2": "WS",
+    "country_alpha_code_3": "WSM",
+    "phone_code": "685"
+  },
+  {
+    "country_name": "San Marino",
+    "country_alpha_code_2": "SM",
+    "country_alpha_code_3": "SMR",
+    "phone_code": "378"
+  },
+  {
+    "country_name": "Sao Tome and Principe",
+    "country_alpha_code_2": "ST",
+    "country_alpha_code_3": "STP",
+    "phone_code": "239"
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "country_alpha_code_2": "SA",
+    "country_alpha_code_3": "SAU",
+    "phone_code": "966"
+  },
+  {
+    "country_name": "Senegal",
+    "country_alpha_code_2": "SN",
+    "country_alpha_code_3": "SEN",
+    "phone_code": "221"
+  },
+  {
+    "country_name": "Serbia",
+    "country_alpha_code_2": "RS",
+    "country_alpha_code_3": "SRB",
+    "phone_code": "381"
+  },
+  {
+    "country_name": "Seychelles",
+    "country_alpha_code_2": "SC",
+    "country_alpha_code_3": "SYC",
+    "phone_code": "248"
+  },
+  {
+    "country_name": "Sierra Leone",
+    "country_alpha_code_2": "SL",
+    "country_alpha_code_3": "SLE",
+    "phone_code": "232"
+  },
+  {
+    "country_name": "Singapore",
+    "country_alpha_code_2": "SG",
+    "country_alpha_code_3": "SGP",
+    "phone_code": "65"
+  },
+  {
+    "country_name": "Slovakia",
+    "country_alpha_code_2": "SK",
+    "country_alpha_code_3": "SVK",
+    "phone_code": "421"
+  },
+  {
+    "country_name": "Slovenia",
+    "country_alpha_code_2": "SI",
+    "country_alpha_code_3": "SVN",
+    "phone_code": "386"
+  },
+  {
+    "country_name": "Solomon Islands",
+    "country_alpha_code_2": "SB",
+    "country_alpha_code_3": "SLB",
+    "phone_code": "677"
+  },
+  {
+    "country_name": "Somalia",
+    "country_alpha_code_2": "SO",
+    "country_alpha_code_3": "SOM",
+    "phone_code": "252"
+  },
+  {
+    "country_name": "South Africa",
+    "country_alpha_code_2": "ZA",
+    "country_alpha_code_3": "ZAF",
+    "phone_code": "27"
+  },
+  {
+    "country_name": "South Korea",
+    "country_alpha_code_2": "KR",
+    "country_alpha_code_3": "KOR",
+    "phone_code": "82"
+  },
+  {
+    "country_name": "South Sudan",
+    "country_alpha_code_2": "SS",
+    "country_alpha_code_3": "SSD",
+    "phone_code": "211"
+  },
+  {
+    "country_name": "Spain",
+    "country_alpha_code_2": "ES",
+    "country_alpha_code_3": "ESP",
+    "phone_code": "34"
+  },
+  {
+    "country_name": "Sri Lanka",
+    "country_alpha_code_2": "LK",
+    "country_alpha_code_3": "LKA",
+    "phone_code": "94"
+  },
+  {
+    "country_name": "Sudan",
+    "country_alpha_code_2": "SD",
+    "country_alpha_code_3": "SDN",
+    "phone_code": "249"
+  },
+  {
+    "country_name": "Suriname",
+    "country_alpha_code_2": "SR",
+    "country_alpha_code_3": "SUR",
+    "phone_code": "597"
+  },
+  {
+    "country_name": "Svalbard",
+    "country_alpha_code_2": "SJ",
+    "country_alpha_code_3": "SJM",
+    "phone_code": "47"
+  },
+  {
+    "country_name": "Swaziland",
+    "country_alpha_code_2": "SZ",
+    "country_alpha_code_3": "SWZ",
+    "phone_code": "268"
+  },
+  {
+    "country_name": "Sweden",
+    "country_alpha_code_2": "SE",
+    "country_alpha_code_3": "SWE",
+    "phone_code": "46"
+  },
+  {
+    "country_name": "Switzerland",
+    "country_alpha_code_2": "CH",
+    "country_alpha_code_3": "CHE",
+    "phone_code": "41"
+  },
+  {
+    "country_name": "Syria",
+    "country_alpha_code_2": "SY",
+    "country_alpha_code_3": "SYR",
+    "phone_code": "963"
+  },
+  {
+    "country_name": "Taiwan",
+    "country_alpha_code_2": "TW",
+    "country_alpha_code_3": "TWN",
+    "phone_code": "886"
+  },
+  {
+    "country_name": "Tajikistan",
+    "country_alpha_code_2": "TJ",
+    "country_alpha_code_3": "TJK",
+    "phone_code": "992"
+  },
+  {
+    "country_name": "Tanzania",
+    "country_alpha_code_2": "TZ",
+    "country_alpha_code_3": "TZA",
+    "phone_code": "255"
+  },
+  {
+    "country_name": "Thailand",
+    "country_alpha_code_2": "TH",
+    "country_alpha_code_3": "THA",
+    "phone_code": "66"
+  },
+  {
+    "country_name": "Timor-Leste (East Timor)",
+    "country_alpha_code_2": "TL",
+    "country_alpha_code_3": "TLS",
+    "phone_code": "670"
+  },
+  {
+    "country_name": "Togo",
+    "country_alpha_code_2": "TG",
+    "country_alpha_code_3": "TGO",
+    "phone_code": "228"
+  },
+  {
+    "country_name": "Tokelau",
+    "country_alpha_code_2": "TK",
+    "country_alpha_code_3": "TKL",
+    "phone_code": "690"
+  },
+  {
+    "country_name": "Tonga Islands",
+    "country_alpha_code_2": "TO",
+    "country_alpha_code_3": "TON",
+    "phone_code": "676"
+  },
+  {
+    "country_name": "Tunisia",
+    "country_alpha_code_2": "TN",
+    "country_alpha_code_3": "TUN",
+    "phone_code": "216"
+  },
+  {
+    "country_name": "Turkey",
+    "country_alpha_code_2": "TR",
+    "country_alpha_code_3": "TUR",
+    "phone_code": "90"
+  },
+  {
+    "country_name": "Turkmenistan",
+    "country_alpha_code_2": "TM",
+    "country_alpha_code_3": "TKM",
+    "phone_code": "993"
+  },
+  {
+    "country_name": "Tuvalu",
+    "country_alpha_code_2": "TV",
+    "country_alpha_code_3": "TUV",
+    "phone_code": "688"
+  },
+  {
+    "country_name": "Uganda",
+    "country_alpha_code_2": "UG",
+    "country_alpha_code_3": "UGA",
+    "phone_code": "256"
+  },
+  {
+    "country_name": "Ukraine",
+    "country_alpha_code_2": "UA",
+    "country_alpha_code_3": "UKR",
+    "phone_code": "380"
+  },
+  {
+    "country_name": "United Arab Emirates",
+    "country_alpha_code_2": "AE",
+    "country_alpha_code_3": "ARE",
+    "phone_code": "971"
+  },
+  {
+    "country_name": "United Kingdom",
+    "country_alpha_code_2": "GB",
+    "country_alpha_code_3": "GBR",
+    "phone_code": "44"
+  },
+  {
+    "country_name": "United States",
+    "country_alpha_code_2": "US",
+    "country_alpha_code_3": "USA",
+    "phone_code": "1"
+  },
+  {
+    "country_name": "Uruguay",
+    "country_alpha_code_2": "UY",
+    "country_alpha_code_3": "URY",
+    "phone_code": "598"
+  },
+  {
+    "country_name": "Uzbekistan",
+    "country_alpha_code_2": "UZ",
+    "country_alpha_code_3": "UZB",
+    "phone_code": "998"
+  },
+  {
+    "country_name": "Vanuatu",
+    "country_alpha_code_2": "VU",
+    "country_alpha_code_3": "VUT",
+    "phone_code": "678"
+  },
+  {
+    "country_name": "Venezuela",
+    "country_alpha_code_2": "VE",
+    "country_alpha_code_3": "VEN",
+    "phone_code": "58"
+  },
+  {
+    "country_name": "Vietnam",
+    "country_alpha_code_2": "VN",
+    "country_alpha_code_3": "VNM",
+    "phone_code": "84"
+  },
+  {
+    "country_name": "Wallis and Futuna",
+    "country_alpha_code_2": "WF",
+    "country_alpha_code_3": "WLF",
+    "phone_code": "681"
+  },
+  {
+    "country_name": "Western Sahara",
+    "country_alpha_code_2": "EH",
+    "country_alpha_code_3": "ESH",
+    "phone_code": "212"
+  },
+  {
+    "country_name": "Yemen",
+    "country_alpha_code_2": "YE",
+    "country_alpha_code_3": "YEM",
+    "phone_code": "967"
+  },
+  {
+    "country_name": "Zambia",
+    "country_alpha_code_2": "ZM",
+    "country_alpha_code_3": "ZMB",
+    "phone_code": "260"
+  },
+  {
+    "country_name": "Zimbabwe",
+    "country_alpha_code_2": "ZW",
+    "country_alpha_code_3": "ZWE",
+    "phone_code": "263"
+  }
+]
