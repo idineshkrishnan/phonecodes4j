@@ -13,7 +13,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- *
+ * @author Dinesh Krishnan
  */
 public class PhoneCodes {
 
@@ -49,27 +49,31 @@ public class PhoneCodes {
     }
 
     /**
-     *
+     * A method will return a possible country names for given phone code.
      * @param phoneCode
-     * @return
+     * @return A possible country names for give phone code
      */
     public String getCountryNameByPhoneCode(final Integer phoneCode) {
         if(phoneCode > 0 && phoneCode < 1000) {
-            String countries = countryMapPhoneCode
-                    .get(phoneCode)
-                    .stream()
-                    .map(country -> country.getCountryName() + Constants.SEPARATOR)
-                    .collect(Collectors.joining());
-            return countries.substring(0, countries.length() -1);
+            List<Country> countryList = countryMapPhoneCode.get(phoneCode);
+            if(countryList != null && countryList.size() > 0) {
+                String countries = countryList
+                        .stream()
+                        .map(country -> country.getCountryName() + Constants.SEPARATOR)
+                        .collect(Collectors.joining());
+                return countries.substring(0, countries.length() - 1);
+            } else {
+                throw new PhoneCodesException(Constants.ERROR_INVALID_PHONE_CODE);
+            }
         } else {
             throw new PhoneCodesException(Constants.ERROR_INVALID_PHONE_CODE);
         }
     }
 
     /**
-     *
+     * A method will return a possible country names for given phone code.
      * @param phoneCode
-     * @return
+     * @return A possible country names for give phone code
      */
     public String getCountryNameByPhoneCode(final String phoneCode) {
         if(phoneCode != null && phoneCode.matches(Constants.INTEGER_REGEX)) {
@@ -80,9 +84,9 @@ public class PhoneCodes {
     }
 
     /**
-     *
+     * A method will return a possible country names for given phone codes.
      * @param phoneCodes
-     * @return
+     * @return A possible country names for give phone codes
      */
     public Map<Integer, String> getCountryNamesByPhoneCode(final Integer...phoneCodes) {
         Map<Integer, String> names = new HashMap<Integer, String>();
@@ -95,9 +99,9 @@ public class PhoneCodes {
     }
 
     /**
-     *
+     * A method will return a possible country names for given phone codes.
      * @param phoneCodes
-     * @return
+     * @return A possible country names for give phone codes
      */
     public Map<Integer, String> getCountryNamesByPhoneCode(final String...phoneCodes) {
         Map<Integer, String> names = new HashMap<Integer, String>();
@@ -111,32 +115,38 @@ public class PhoneCodes {
     }
 
     /**
-     *
+     * A method will return a possible country codes for given phone code.
      * @param phoneCode
      * @param type
-     * @return
+     * @return A possible country codes for give phone code
+     * @see Type
      */
     public String getCountryCodeByPhoneCode(final Integer phoneCode, final Type type) {
         if(phoneCode > 0 && phoneCode < 1000) {
-            String countries = countryMapPhoneCode
-                    .get(phoneCode)
-                    .stream()
-                    .map(country ->
-                            (type == Type.ALPHA_CODE_2) ?
-                                    country.getCountryAlphaCode2() + Constants.SEPARATOR:
-                                    country.getCountryAlphaCode3() + Constants.SEPARATOR)
-                    .collect(Collectors.joining());
-            return countries.substring(0, countries.length() -1);
+            List<Country> countryList = countryMapPhoneCode.get(phoneCode);
+            if(countryList != null && countryList.size() > 0) {
+                String countries = countryList
+                        .stream()
+                        .map(country ->
+                                (type == Type.ALPHA_CODE_2) ?
+                                        country.getCountryAlphaCode2() + Constants.SEPARATOR :
+                                        country.getCountryAlphaCode3() + Constants.SEPARATOR)
+                        .collect(Collectors.joining());
+                return countries.substring(0, countries.length() - 1);
+            } else {
+                throw new PhoneCodesException(Constants.ERROR_INVALID_PHONE_CODE);
+            }
         } else {
             throw new PhoneCodesException(Constants.ERROR_INVALID_PHONE_CODE);
         }
     }
 
     /**
-     *
+     * A method will return a possible country codes for given phone code and type.
      * @param phoneCode
      * @param type
-     * @return
+     * @return A possible country codes for give phone code and type
+     * @see Type
      */
     public String getCountryCodeByPhoneCode(final String phoneCode, final Type type)
     {
@@ -148,17 +158,42 @@ public class PhoneCodes {
     }
 
     /**
-     *
+     * This method will return phone code for give country code.
      * @param countryCode
-     * @return
+     * @return A phone code will be returned for given country code.
      */
     public Integer getPhoneCodeByCountryCode(final String countryCode) {
+        Country country;
         if(countryCode != null && countryCode.length() == 2) {
-            return countryMapAlphaCode2.get(countryCode).getPhoneCode();
+            country = countryMapAlphaCode2.get(countryCode);
+            if(country != null)
+                return country.getPhoneCode();
+            else
+                throw new PhoneCodesException(Constants.ERROR_INVALID_COUNTRY_CODE);
         } else if (countryCode != null && countryCode.length() == 3) {
-            return countryMapAlphaCode3.get(countryCode).getPhoneCode();
+            country = countryMapAlphaCode3.get(countryCode);
+            if(country != null)
+                return country.getPhoneCode();
+            else
+                throw new PhoneCodesException(Constants.ERROR_INVALID_COUNTRY_CODE);
         } else {
             throw new PhoneCodesException(Constants.ERROR_INVALID_COUNTRY_CODE);
         }
+    }
+
+    /**
+     * This method will return phone codes for give country codes.
+     * @param countryCodes
+     * @return A phone codes will be returned for given country codes.
+     */
+    public List<Integer> getPhoneCodesByCountryCodes(final String...countryCodes) {
+        List<Integer> phoneCodes = new ArrayList<Integer>();
+        if(countryCodes != null && countryCodes.length > 0) {
+            for(String countryCode : countryCodes)
+                phoneCodes.add(getPhoneCodeByCountryCode(countryCode));
+        } else {
+            throw new PhoneCodesException(Constants.ERROR_INVALID_COUNTRY_CODE);
+        }
+        return phoneCodes;
     }
 }

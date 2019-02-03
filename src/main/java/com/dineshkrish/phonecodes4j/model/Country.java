@@ -2,7 +2,10 @@ package com.dineshkrish.phonecodes4j.model;
 
 import com.google.gson.annotations.SerializedName;
 
-public class Country {
+/**
+ * @author Dinesh Krishnan
+ */
+public final class Country {
 
     @SerializedName("phone_code")
     private int phoneCode;

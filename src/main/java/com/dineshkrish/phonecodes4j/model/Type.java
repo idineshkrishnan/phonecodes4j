@@ -1,7 +1,7 @@
 package com.dineshkrish.phonecodes4j.model;
 
 /**
- *
+ * @author Dinesh Krishnan
  */
 public enum Type {
 
