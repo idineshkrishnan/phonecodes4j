@@ -6,7 +6,7 @@
 
     <groupId>com.dineshkrish</groupId>
     <artifactId>phonecodes4j</artifactId>
-    <version>2.0.1-SNAPSHOT</version>
+    <version>2.0.1</version>
 
     <name>PhoneCodes4J</name>
     <description>Simple library to get phone code for given country code</description>
